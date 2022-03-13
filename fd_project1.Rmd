@@ -1,0 +1,79 @@
+---
+title: "Covid 19 Vaccination Analysis"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Spike Protien Levels 
+
+```{r}
+library(flexdashboard)
+setwd('/Users/sultm0a/Documents/Covid 19')
+healthy_data = read.csv("Healthy Participants.csv")
+
+library(ggplot2)
+library(plotly)
+fig_1=ggplot(data=healthy_data) + 
+  geom_point(mapping=aes(x=Amount.of.Spike.3.Months,y=Amount.of.Spike.6.Months,color=GROUP.INFO,size = Change.in.Spike))+
+  geom_segment(aes(x = 0, y = 0, xend = 250, yend = 250, colour = "No Change Reference")) +
+  xlab('Amount of Spike at 3 Months') +
+  ylab("Amount of Spike at 6 Months")+
+  theme_bw()+ 
+  labs(color='Vaccination Status')
+
+ggplotly(fig_1)
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Gender Wise Participation
+
+```{r}
+
+
+# Create data
+### The number was checked using table command in graphs file
+data <- data.frame(
+  Gender=c("Male","Female") ,  
+  Participants=c(79,80)
+)
+
+# Barplot
+fig_2<-ggplot(data, aes(x='Gender', y=Participants,fill=Gender)) + 
+  geom_bar(stat='identity')+
+  coord_polar("y", start=0)
+
+
+
+
+fig_2
+```
+
+### Groups Information
+
+```{r}
+data <- data.frame(
+  Groups=c("Covid Positive & Un Vaccinated","Covid Positive & Vaccinated",
+           " Phase 3 Trials","Vaccinated") ,  
+  Participants=c(45,33,47,34)
+)
+
+fig_3<-ggplot(data, aes(x='', y=Participants,fill=Groups)) + 
+  geom_bar(stat='identity')+
+  labs(x='Groups')
+
+ggplotly(fig_3)
+```
+
+
