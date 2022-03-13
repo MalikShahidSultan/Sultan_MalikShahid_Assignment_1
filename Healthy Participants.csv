@@ -1,0 +1,163 @@
+,PATIENT-NAME/LAST NAME,GENDER,AGE,GROUP,GROUP INFO,EVALUATION OF NUCLEOCAPSID,Amount of Spike 3 Months,EVALUATION OF SPIKE,WHICH PARAMETERS WE SHOULD LOOK FOR?,DOES SHE/HE HAVE DIABETES?,"
+Does she/he have any respiratory disease (chronic lung disease etc) for over than 6 months?",Does she/he have any cancer history?,Does she/he have any type of cardiac disease?,"
+Does she/he have any autoimmune disease (SLE, Behçet's disease, psoriasis etc.)?","
+Does she/he use immunosuppressive medication?",Amount of Spike 6 Months,Change in Spike
+0,1,FEMALE,51,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,200,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,210,1.05
+1,2,FEMALE,52,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,98.78,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,100.34,1.015792671
+3,4,MALE,29,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,90.12,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,200,2.219263205
+4,5,MALE,26,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,200.67,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,198,0.986694573
+6,7,FEMALE,37,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,10.23,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,20.76,2.029325513
+7,8,FEMALE,40,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,89.12,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,100.45,1.127131957
+8,9,MALE,34,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,53.82,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,240.56,4.469713861
+9,10,MALE,23,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,101.9,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,100.56,0.986849853
+10,11,FEMALE,41,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,141.2,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,178.65,1.265226629
+11,12,MALE,25,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,125.7,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,176.45,1.403739061
+12,13,MALE,31,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,200.1,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,156.45,0.78185907
+13,14,FEMALE,41,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,200,0.796812749
+14,15,MALE,35,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,10.56,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,13.57,1.285037879
+15,16,MALE,33,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,10.61,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,24.37,2.296889727
+16,17,FEMALE,46,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,24.49,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,35.52,1.450387913
+17,18,MALE,41,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,25.52,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,76.78,3.00862069
+18,19,FEMALE,34,3. Month - 1. Group,1-Covid (+) and Unvaccinated,NEGATIVE,0.399,NEGATIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,0.1,0.250626566
+19,20,FEMALE,29,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,189.98,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.321191704
+20,21,FEMALE,39,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,61.43,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,64.4,1.048347713
+21,22,FEMALE,48,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,10.89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,19.9,1.827364555
+22,23,FEMALE,54,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,98.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,44.37,0.449179996
+23,24,FEMALE,25,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,128,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,100.34,0.78390625
+24,25,MALE,41,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,96.14,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,75.13,0.781464531
+28,29,FEMALE,24,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,104.3,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,135.6,1.300095877
+29,30,FEMALE,31,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,124,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,200.45,1.616532258
+30,31,MALE,32,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,10.76,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,23.32713755
+31,32,FEMALE,27,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,92.62,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,107.6,1.161736126
+32,33,FEMALE,56,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,127.2,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,234.45,1.843160377
+33,34,MALE,27,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,98.76,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,67.56,0.684082625
+34,35,MALE,38,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,83.08,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,98.58,1.186567164
+35,36,MALE,33,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,53.41,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,49.98,0.935779817
+36,37,FEMALE,45,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,90.87,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,2.762187741
+39,40,FEMALE,63,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,107.78,0.42940239
+40,41,FEMALE,35,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,76.84,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,79.12,1.029672046
+41,42,FEMALE,44,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,198.67,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,60.73,0.305682791
+44,45,MALE,56,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+45,46,MALE,26,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,28.43,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,30.44,1.070699965
+46,47,FEMALE,58,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,97.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,23.98,0.245244426
+47,48,FEMALE,30,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,62.66,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,56.45,0.900893712
+48,49,MALE,54,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+49,50,FEMALE,40,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,111.9,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,145.8,1.302949062
+50,51,FEMALE,39,3. Month - 1. Group,1-Covid (+) and Unvaccinated,NEGATIVE,99.01,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,191.9,1.938188062
+51,52,MALE,54,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,45.49,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,90.89,1.998021543
+52,53,FEMALE,43,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+53,54,MALE,32,3. Month - 1. Group,1-Covid (+) and Unvaccinated,POSITIVE,42.58,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,5.894786285
+55,56,FEMALE,35,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,234.9,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,100.45,0.427628778
+56,57,MALE,56,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,251,1
+57,58,FEMALE,23,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,219.6,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,173.3,0.789162113
+58,59,MALE,40,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,150.5,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,90.83,0.603521595
+59,60,FEMALE,43,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,156.67,0.624183267
+60,61,MALE,31,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,251,1
+61,62,FEMALE,25,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,209.4,0.834262948
+62,63,MALE,24,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,207.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.207892204
+63,64,FEMALE,37,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,187.2,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,59.2,0.316239316
+64,65,MALE,46,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,120.2,0.478884462
+65,66,MALE,40,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,153.7,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,189.89,1.235458686
+66,67,FEMALE,41,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,46.64,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,23.18,0.496998285
+67,68,MALE,46,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,103.6,0.412749004
+68,69,FEMALE,26,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+69,70,MALE,40,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+70,71,FEMALE,25,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,97.78,0.389561753
+71,72,MALE,41,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,71.39,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,65.3,0.914693935
+72,73,FEMALE,54,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+73,74,FEMALE,24,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,58.6,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,37.31,0.63668942
+74,75,FEMALE,27,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,83.35,0.332071713
+75,76,MALE,29,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+76,77,FEMALE,43,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+77,78,FEMALE,42,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,221.2,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,148,0.669077758
+78,79,FEMALE,31,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,152.6,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,107.9,0.707077326
+80,81,MALE,35,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,51.22,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,35.18,0.686841078
+81,82,MALE,26,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+84,85,FEMALE,44,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+85,86,MALE,38,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,139.3,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,92.8,0.666188083
+86,87,FEMALE,50,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+89,90,MALE,25,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,132.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,141.2,1.063253012
+90,91,FEMALE,47,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+91,92,MALE,26,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,209.9,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,107.3,0.511195808
+92,93,FEMALE,48,3. Month - 2. Group,2-Covid (+) and Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1
+93,94,FEMALE,25,3. Month - 3. Group,3-Phase 3,POSITIVE,101.9,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,40.82,0.400588813
+94,95,MALE,54,3. Month - 3. Group,3-Phase 3,NEGATIVE,14.18,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,24.96,1.76022567
+95,96,FEMALE,62,3. Month - 3. Group,3-Phase 3,POSITIVE,57.81,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,25.91,0.448192354
+96,97,MALE,28,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,113.5,0.452191235
+97,98,FEMALE,35,3. Month - 3. Group,3-Phase 3,POSITIVE,15.67,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,33.65,2.147415444
+98,99,MALE,31,3. Month - 3. Group,3-Phase 3,POSITIVE,136.2,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,68.39,0.502129222
+99,100,FEMALE,27,3. Month - 3. Group,3-Phase 3,POSITIVE,71.11,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,98.89,1.390662354
+100,101,MALE,55,3. Month - 3. Group,3-Phase 3,POSITIVE,100.34,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,62.47,0.622583217
+101,102,MALE,25,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,138.4,0.551394422
+102,103,FEMALE,47,3. Month - 3. Group,3-Phase 3,POSITIVE,125.1,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,119.9,0.958433253
+104,105,MALE,31,3. Month - 3. Group,3-Phase 3,NEGATIVE,16.55,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,45.67,2.759516616
+105,106,MALE,49,3. Month - 3. Group,3-Phase 3,POSITIVE,121.8,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,45.31,0.372003284
+106,107,FEMALE,35,3. Month - 3. Group,3-Phase 3,POSITIVE,210.9,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,100.78,0.477856804
+108,109,MALE,35,3. Month - 3. Group,3-Phase 3,POSITIVE,111.5,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,2.251121076
+109,110,FEMALE,31,3. Month - 3. Group,3-Phase 3,NEGATIVE,90.12,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,41.13,0.456391478
+111,112,MALE,39,3. Month - 3. Group,3-Phase 3,POSITIVE,46.03,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,28.06,0.609602433
+112,113,FEMALE,32,3. Month - 3. Group,3-Phase 3,POSITIVE,100.34,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,90.78,0.904723939
+113,114,FEMALE,51,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1
+114,115,MALE,45,3. Month - 3. Group,3-Phase 3,NEGATIVE,16.53,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,30.47,1.843315185
+115,116,FEMALE,29,3. Month - 3. Group,3-Phase 3,POSITIVE,245.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,119.9,0.487794955
+116,117,MALE,26,3. Month - 3. Group,3-Phase 3,NEGATIVE,44.43,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,251,5.649336034
+117,118,MALE,27,3. Month - 3. Group,3-Phase 3,POSITIVE,34.23,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,13.42,0.392053754
+118,119,MALE,29,3. Month - 3. Group,3-Phase 3,POSITIVE,107.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,36.26,0.336363636
+119,120,FEMALE,28,3. Month - 3. Group,3-Phase 3,NEGATIVE,10.89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,51.91,4.766758494
+120,121,MALE,51,3. Month - 3. Group,3-Phase 3,POSITIVE,200.12,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.254247452
+121,122,FEMALE,50,3. Month - 3. Group,3-Phase 3,POSITIVE,100.12,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,110.8,1.106671994
+122,123,MALE,51,3. Month - 3. Group,3-Phase 3,POSITIVE,164.5,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.525835866
+124,125,FEMALE,33,3. Month - 3. Group,3-Phase 3,POSITIVE,70.04,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,27.5,0.392632781
+125,126,MALE,25,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1
+126,127,MALE,59,3. Month - 3. Group,3-Phase 3,POSITIVE,69.06,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,55.8,0.80799305
+127,128,FEMALE,54,3. Month - 3. Group,3-Phase 3,NEGATIVE,10.45,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,10.32,0.987559809
+128,129,MALE,59,3. Month - 3. Group,3-Phase 3,POSITIVE,67.24,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,6.55,0.097412255
+129,130,FEMALE,59,3. Month - 3. Group,3-Phase 3,POSITIVE,100.34,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,115,1.146103249
+130,131,MALE,37,3. Month - 3. Group,3-Phase 3,POSITIVE,95.9,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,41.53,0.433055266
+131,132,MALE,31,3. Month - 3. Group,3-Phase 3,NEGATIVE,90.12,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,38.9,0.431646693
+132,133,FEMALE,50,3. Month - 3. Group,3-Phase 3,NEGATIVE,89.87,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,251,2.792923111
+133,134,MALE,26,3. Month - 3. Group,3-Phase 3,NEGATIVE,66.86,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,36.31,0.543075082
+134,135,MALE,32,3. Month - 3. Group,3-Phase 3,POSITIVE,160.1,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,84.47,0.527607745
+135,136,FEMALE,55,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1
+136,137,MALE,43,3. Month - 3. Group,3-Phase 3,POSITIVE,27.07,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,43.01,1.588843738
+137,138,FEMALE,32,3. Month - 3. Group,3-Phase 3,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,36.88,0.146932271
+138,139,FEMALE,52,3. Month - 3. Group,3-Phase 3,POSITIVE,78.23,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,169.1,2.161574843
+140,141,MALE,38,3. Month - 3. Group,3-Phase 3,POSITIVE,71.85,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,33.28,0.463187196
+141,142,MALE,28,3. Month - 3. Group,3-Phase 3,POSITIVE,100.12,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,92.93,0.928186177
+142,143,FEMALE,44,3. Month - 3. Group,3-Phase 3,POSITIVE,89.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,56.67,0.631209624
+143,144,MALE,35,3. Month - 3. Group,3-Phase 3,POSITIVE,100.2,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,90.9,0.907185629
+146,147,FEMALE,50,3. Month - 3. Group,3-Phase 3,POSITIVE,86.31,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,2.908121886
+147,148,MALE,60,3. Month - 4. Group,4-Vaccinated,NEGATIVE,89.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,76.91,0.856649588
+148,149,MALE,50,3. Month - 4. Group,4-Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1
+149,150,MALE,56,3. Month - 4. Group,4-Vaccinated,POSITIVE,123,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,116.3,0.945528455
+150,151,FEMALE,45,3. Month - 4. Group,4-Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1
+151,152,MALE,45,3. Month - 4. Group,4-Vaccinated,POSITIVE,178.89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,115.5,0.645648164
+152,153,FEMALE,43,3. Month - 4. Group,4-Vaccinated,POSITIVE,100.67,POSITIVE,"Nucleocapsid,Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,119.9,1.191020165
+153,154,MALE,28,3. Month - 4. Group,4-Vaccinated,POSITIVE,200,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1.255
+154,155,FEMALE,54,3. Month - 4. Group,4-Vaccinated,NEGATIVE,200,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,111.4,0.557
+155,156,MALE,59,3. Month - 4. Group,4-Vaccinated,POSITIVE,90,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,12.57,0.139666667
+156,157,FEMALE,45,3. Month - 4. Group,4-Vaccinated,POSITIVE,200,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,144.2,0.721
+158,159,MALE,43,3. Month - 4. Group,4-Vaccinated,POSITIVE,100.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,110.87,1.100119071
+159,160,FEMALE,56,3. Month - 4. Group,4-Vaccinated,POSITIVE,67,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,68.81,1.027014925
+161,162,MALE,51,3. Month - 4. Group,4-Vaccinated,POSITIVE,89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,70.73,0.794719101
+162,163,FEMALE,56,3. Month - 4. Group,4-Vaccinated,POSITIVE,100.13,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,2.506741236
+163,164,MALE,56,3. Month - 4. Group,4-Vaccinated,NEGATIVE,34,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,67.78,1.993529412
+164,165,FEMALE,51,3. Month - 4. Group,4-Vaccinated,POSITIVE,40,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,25.84,0.646
+165,166,FEMALE,51,3. Month - 4. Group,4-Vaccinated,NEGATIVE,34,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,9.78,0.287647059
+166,167,MALE,27,3. Month - 4. Group,4-Vaccinated,POSITIVE,200.1,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.254372814
+168,169,MALE,44,3. Month - 4. Group,4-Vaccinated,POSITIVE,200,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,73.05,0.36525
+169,170,MALE,56,3. Month - 4. Group,4-Vaccinated,NEGATIVE,78.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen",NO,NO,NO,NO,NO,NO,50.05,0.635152284
+170,171,MALE,43,3. Month - 4. Group,4-Vaccinated,POSITIVE,235,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,164.3,0.699148936
+171,172,FEMALE,53,3. Month - 4. Group,4-Vaccinated,POSITIVE,68.89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,9.65,0.140078386
+172,173,MALE,39,3. Month - 4. Group,4-Vaccinated,POSITIVE,68,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,109.6,1.611764706
+173,174,FEMALE,44,3. Month - 4. Group,4-Vaccinated,POSITIVE,200,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1.255
+174,175,MALE,60,3. Month - 4. Group,4-Vaccinated,POSITIVE,80.8,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,68.47,0.84740099
+175,176,FEMALE,50,3. Month - 4. Group,4-Vaccinated,POSITIVE,220,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,91.25,0.414772727
+176,177,FEMALE,46,3. Month - 4. Group,4-Vaccinated,POSITIVE,250,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,213.9,0.8556
+177,178,MALE,52,3. Month - 4. Group,4-Vaccinated,POSITIVE,67,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,56.06,0.836716418
+178,179,MALE,47,3. Month - 4. Group,4-Vaccinated,POSITIVE,145,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,251,1.731034483
+180,181,FEMALE,51,3. Month - 4. Group,4-Vaccinated,POSITIVE,251,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,73.52,0.292908367
+181,182,FEMALE,43,3. Month - 4. Group,4-Vaccinated,POSITIVE,234,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid Antigen",NO,NO,NO,NO,NO,NO,205.9,0.87991453
+182,183,MALE,50,3. Month - 4. Group,4-Vaccinated,POSITIVE,56.78,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,63.78,1.123282846
+183,184,FEMALE,55,3. Month - 4. Group,4-Vaccinated,POSITIVE,78.89,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,46.99,0.595639498
+184,185,MALE,49,3. Month - 4. Group,4-Vaccinated,POSITIVE,150,POSITIVE,"Spike Antigen,IgG,Cocktail Antigen,Nucleocapsid",NO,NO,NO,NO,NO,NO,251,1.673333333
